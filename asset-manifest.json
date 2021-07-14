@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/saipalace/static/css/main.6640c928.chunk.css",
+    "main.js": "/saipalace/static/js/main.e636219a.chunk.js",
+    "main.js.map": "/saipalace/static/js/main.e636219a.chunk.js.map",
+    "runtime-main.js": "/saipalace/static/js/runtime-main.fd8ff488.js",
+    "runtime-main.js.map": "/saipalace/static/js/runtime-main.fd8ff488.js.map",
+    "static/css/2.4be38407.chunk.css": "/saipalace/static/css/2.4be38407.chunk.css",
+    "static/js/2.9f614dda.chunk.js": "/saipalace/static/js/2.9f614dda.chunk.js",
+    "static/js/2.9f614dda.chunk.js.map": "/saipalace/static/js/2.9f614dda.chunk.js.map",
+    "static/js/3.82aad5d4.chunk.js": "/saipalace/static/js/3.82aad5d4.chunk.js",
+    "static/js/3.82aad5d4.chunk.js.map": "/saipalace/static/js/3.82aad5d4.chunk.js.map",
+    "index.html": "/saipalace/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/saipalace/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6640c928.chunk.css.map": "/saipalace/static/css/main.6640c928.chunk.css.map",
+    "static/js/2.9f614dda.chunk.js.LICENSE.txt": "/saipalace/static/js/2.9f614dda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd8ff488.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.9f614dda.chunk.js",
+    "static/css/main.6640c928.chunk.css",
+    "static/js/main.e636219a.chunk.js"
+  ]
+}
